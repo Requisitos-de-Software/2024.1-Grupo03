@@ -39,38 +39,38 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <center>
 
-| ID  | Descrição                                                                                                               | Avaliação | Referência          | Print |
-|:--:|-------------------------------------------------------------------------------------------------------------------------|:---------:|:-------------------:|:-----:|
-| **1** | O artefato possui uma visão geral clara do NFR Framework?                                                              |           | [1.](#ref1)         | [página 30](../../../../assets/prints_verificacao/danilo/NFR_Pagina30.jpeg) |
-| **2** | O artefato descreve adequadamente o Softgoal Interdependency Graph (SIG)?                                              |           | [1.](#ref1)         | [página 30](../../../../assets/prints_verificacao/danilo/NFR_Pagina30.jpeg) |
-| **3** | O artefato define claramente os tipos de Softgoals usados no NFR Framework?                                            |           | [1.](#ref1)         | [página 31](../../../../assets/prints_verificacao/danilo/NFR_Pagina31.jpeg) |
-| **4** | O artefato apresenta exemplos de interdependências entre os Softgoals?                                                 |           | [1.](#ref1)         | [página 31](../../../../assets/prints_verificacao/danilo/NFR_Pagina31.jpeg) |
-| **5** | O artefato descreve o procedimento de avaliação dos Softgoals?                                                         |           | [1.](#ref1)         | [página 37](../../../../assets/prints_verificacao/danilo/NFR_Pagina37.jpeg) |
-| **6** | O artefato fornece uma visão geral das interdependências e contribuições entre Softgoals?                              |           | [1.](#ref1)         | [página 32](../../../../assets/prints_verificacao/danilo/NFR_Pagina32.jpeg) |
-| **7** | O artefato inclui uma discussão sobre a importância dos Requisitos Não-Funcionais (RNFs) desde o início do projeto?    |           | [1.](#ref1)         | [página 38](../../../../assets/prints_verificacao/danilo/NFR_Pagina38.jpeg) |
-| **8** | O artefato descreve os elementos que compõem o grafo SIG, como softgoals e interdependências?                          |           | [1.](#ref1)         | [página 30](../../../../assets/prints_verificacao/danilo/NFR_Pagina30.jpeg) |
-| **9** | O artefato menciona a utilização de catálogos de requisitos descritos na notação adotada pelo NFR Framework?           |           | [1.](#ref1)         | [página 30](../../../../assets/prints_verificacao/danilo/NFR_Pagina30.jpeg) |
-| **10** | O artefato apresenta o conceito de refinamentos de Softgoals e suas contribuições para o desenvolvimento do projeto?  |           | [1.](#ref1)       | [página 31](../../../../assets/prints_verificacao/danilo/NFR_Pagina31.jpeg) |
+| ID | Descrição | Avaliação | Referência | Print |
+| --- | --- | --- | --- | --- |
+| **1** | O artefato possui uma visão geral clara do NFR Framework? | Sim | [1.](#ref1) | [página 30](../../../../assets/prints_verificacao/danilo/NFR_Pagina30.jpeg) |
+| **2** | O artefato descreve adequadamente o Softgoal Interdependency Graph (SIG)? | Sim | [1.](#ref1) | [página 30](../../../../assets/prints_verificacao/danilo/NFR_Pagina30.jpeg) |
+| **3** | O artefato define claramente os tipos de Softgoals usados no NFR Framework? | Sim | [1.](#ref1) | [página 31](../../../../assets/prints_verificacao/danilo/NFR_Pagina31.jpeg) |
+| **4** | O artefato apresenta exemplos de interdependências entre os Softgoals? | Sim | [1.](#ref1) | [página 31](../../../../assets/prints_verificacao/danilo/NFR_Pagina31.jpeg) |
+| **5** | O artefato descreve o procedimento de avaliação dos Softgoals? |   | [1.](#ref1) | [página 37](../../../../assets/prints_verificacao/danilo/NFR_Pagina37.jpeg) |
+| **6** | O artefato fornece uma visão geral das interdependências e contribuições entre Softgoals? | Sim | [1.](#ref1) | [página 32](../../../../assets/prints_verificacao/danilo/NFR_Pagina32.jpeg) |
+| **7** | O artefato inclui uma discussão sobre a importância dos Requisitos Não-Funcionais (RNFs) desde o início do projeto? | Sim | [1.](#ref1) | [página 38](../../../../assets/prints_verificacao/danilo/NFR_Pagina38.jpeg) |
+| **8** | O artefato descreve os elementos que compõem o grafo SIG, como softgoals e interdependências? | Sim | [1.](#ref1) | [página 30](../../../../assets/prints_verificacao/danilo/NFR_Pagina30.jpeg) |
+| **9** | O artefato menciona a utilização de catálogos de requisitos descritos na notação adotada pelo NFR Framework? | Sim | [1.](#ref1) | [página 30](../../../../assets/prints_verificacao/danilo/NFR_Pagina30.jpeg) |
+| **10** | O artefato apresenta o conceito de refinamentos de Softgoals e suas contribuições para o desenvolvimento do projeto? | Sim | [1.](#ref1) | [página 31](../../../../assets/prints_verificacao/danilo/NFR_Pagina31.jpeg) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ### Gravação da verificação
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/y6lqOPD0raw" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://youtu.be/y6lqOPD0raw"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
-- ID xx: Descrição
+- ID 5: O artefato descreve o procedimento de avaliação dos Softgoals?
     - Avaliação:
-    - Comentário:
+    - Comentário: Não encontrei referências a este problema nem na bibliografia informada ou no print mostrado ou no arquivo avaliado.
 
 ### Sumário dos resultados
 
@@ -100,15 +100,13 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 9
+    "Não respondido" : 1
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## Bibliografia
 

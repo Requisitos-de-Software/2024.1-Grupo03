@@ -18,30 +18,40 @@ Abaixo, nas Tabela 1 e 2, temos respectivamente o checklist elaborado para a ver
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | O backlog contém uma lista dos requisitos a serem implementados? | sim | <a href="#ref1">1</a> | [pg 38][REF1-pg38] |
-| **2** | Os requisitos estão descritos como histórias de usuário? | sim | <a href="#ref1">1</a> | [pg 38][REF1-pg38] |
-| **3** | Os requisitos estão priorizados? | sim | <a href="#ref1">1</a> | [pg 38][REF1-pg38] |
-| **4** | Os requisitos foram priorizados com a participação do PO? | sim | <a href="#ref2">2</a> | [pg 41][REF2-pg41] |
-| **5** | Caso o PO tenha sido envolvido na priorização, foi apresentado à ele um termo de consentimento para participar no projeto? | sim | <a href="#ref3">3</a> | [pg 141][REF3-pg141] |
+| **1** | O backlog contém uma lista dos requisitos a serem implementados? | Sim | <a href="#ref1">1</a> | [pg 38][REF1-pg38] |
+| **2** | Os requisitos estão descritos como histórias de usuário? | Sim | <a href="#ref1">1</a> | [pg 38][REF1-pg38] |
+| **3** | Os requisitos estão priorizados? | Não | <a href="#ref1">1</a> | [pg 38][REF1-pg38] |
+| **4** | Os requisitos foram priorizados com a participação do PO? | Não se aplica | <a href="#ref2">2</a> | [pg 41][REF2-pg41] |
+| **5** | Caso o PO tenha sido envolvido na priorização, foi apresentado à ele um termo de consentimento para participar no projeto? | Não se aplica | <a href="#ref3">3</a> | [pg 141][REF3-pg141] |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ### Gravação da verificação
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="Entrega 5.1 (Verificação grupo + 1) - Verificação do Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V-3KWMkG-hI" title="Entrega 5.1 (Verificação grupo + 1) - Verificação do Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Link do Vídeo](link)
+[https://youtu.be/V-3KWMkG-hI](link)
 
 </center>
 
 
 ### Problemas Encontrados
 
-Não foram encontrados problemas.
+*   ID 3: Os requisitos estão priorizados?
+    *   Avaliação: Não
+    *   Comentário: Não há a priorização dos requisitos.
+
+*   ID 4: Os requisitos foram priorizados com a participação do PO?
+    *   Avaliação: Não se aplica
+    *   Comentário: Não há participação do PO nem a priorização.
+
+*   ID 5: Caso o PO tenha sido envolvido na priorização, foi apresentado à ele um termo de consentimento para participar no projeto?
+    *   Avaliação: Não se aplica
+    *   Comentário: Não há a participação do IPO nem a priorização por isso não se aplica
 
 ### Sumário dos resultados
 
@@ -71,10 +81,9 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 2
+    "Não" : 1
+    "Não se Aplica" : 2
 ```
 
 </center>

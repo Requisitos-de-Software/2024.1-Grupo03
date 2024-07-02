@@ -24,8 +24,6 @@ Este artefato foi produzido por [Ricardo][RicardoGH] e verificado por [Pablo][Pa
 
 ## Apresentação dos Dados
 
-Aqui será apresentado os resultados do checklist e logo após as observações dos itens com resultado negativo.
-
 ### Checklist de verificação
 
 <font size="2"><p style="text-align: center">Tabela 2 - Checklist preenchido na verificação</p></font>
@@ -34,33 +32,31 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | Os requisitos estão sendo rastreados corretamente de acordo com suas fontes? |  | [1.](#ref1) | [página 4](../../../assets/prints_verificacao/ricardo/forward-from-1.png) |
-| **2** | As informações estão classificadas como ambiental, organizacional, gerencial ou desenvolvimento? |  | [2.](#ref1) | [página 3](../../../assets/prints_verificacao/ricardo/forward-from-2.png) |
-| **3** | Os requisitos possuem os relacionamentos de satisfação, recurso, responsabilidade, representação, alocado, agregação e generalização? |  | [2.](#ref1) | [página 5](../../../assets/prints_verificacao/ricardo/forward-from-3.png) ||
+| **1** | Os requisitos estão sendo rastreados corretamente de acordo com suas fontes? | Sim | [1.](#ref1) | [página 4](../../../assets/prints_verificacao/ricardo/forward-from-1.png) |
+| **2** | As informações estão classificadas como ambiental, organizacional, gerencial ou desenvolvimento? | Sim | [2.](#ref1) | [página 3](../../../assets/prints_verificacao/ricardo/forward-from-2.png) |
+| **3** | Os requisitos possuem os relacionamentos de satisfação, recurso, responsabilidade, representação, alocado, agregação e generalização? | Sim | [2.](#ref1) | [página 5](../../../assets/prints_verificacao/ricardo/forward-from-3.png) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ### Gravação da verificação
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/A_RWu2rkoIQ" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://youtu.be/A_RWu2rkoIQ"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+Não foram encontrados problemas de acordo com o checklist pré proposto.
 
 ### Sumário dos resultados
 
@@ -90,15 +86,12 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 3
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## Bibliografia
 
